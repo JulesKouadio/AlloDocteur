@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCbnroHwJ-HMddVsMyQn7UK3-sJwccjt1M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511759608139</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.doctolo.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>doctolo-1c280</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doctolo-1c280.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511759608139:ios:cdc63f01add89fb484e0ce</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45943979072",
+    "project_id": "doctolo-3ee9a",
+    "storage_bucket": "doctolo-3ee9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45943979072:android:b41b6f13b37b10db8133a5",
+        "android_client_info": {
+          "package_name": "com.example.doctolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJyAQ72lodx75Oy6Lmhos0Sinkge0ywM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
